@@ -16,6 +16,7 @@ class QuizQuestion extends Component {
             this.setState({incorrectAnswer: true});
         }
     }
+    
     render() {
         return (<main>
             <section>
